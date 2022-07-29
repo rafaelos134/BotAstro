@@ -2,10 +2,10 @@ import tweepy
 import time 
 import os
 
-KEY_1 = os.environ{'KEY_1'}
-KEY_2 = os.environ{'KEY_2'}
-KEY_3 = os.environ{'KEY_3'}
-KEY_4 = os.environ{'KEY_4'}
+KEY_1 = os.environ['KEY_1']
+KEY_2 = os.environ['KEY_2']
+KEY_3 = os.environ['KEY_3']
+KEY_4 = os.environ['KEY_4']
 
 #tweepy
 auth = tweepy.OAuthHandler('{}'.format(KEY_1),'{}'.format(KEY_2))
