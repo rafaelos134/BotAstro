@@ -8,8 +8,6 @@ on:
 jobs:
   build:  
     runs-on: ubuntu-latest
-    steps:
-    - name: Running
     env:
       KEY_1: ${{ secrets.KEY_1 }}
       KEY_2: ${{ secrets.KEY_2 }}
