@@ -4,10 +4,13 @@ on:
     branches:
     - main
   schedule:
-    - cron: "42 23 * * *"
+    - cron: "50 23 * * *"
 jobs:
   build:  
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Running
     env:
       KEY_1: ${{ secrets.KEY_1 }}
       KEY_2: ${{ secrets.KEY_2 }}
