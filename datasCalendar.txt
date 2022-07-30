@@ -1,5 +1,40 @@
 7.00.00
 7.28.Lua Nova
-7.29.Pico da chuva de meteoros Delta Aquáridas do Sul
 7.30.Lua próxima à estrela Regulus, da constelação de Leão
 7.30.Em 1610 Galileu observou pela primeira vez Saturno
+8.00.00
+8.5.Lua crescente
+8.11.Lua cheia
+8.12.Super Lua
+8.12.Chuva de meteoros Perseidas
+8.14.Saturno com a face totalmente iluminada
+8.19.Lua minguante
+8.27.Lua nova
+9.00.00
+9.3.Lua crescente
+9.10.Lua cheia
+9.17.Lua minguante
+9.25.Lua nova
+9.26.Júpiter com a face totalmente iluminada
+10.00.00
+10.2.Lua crescente
+10.7.Chuva de Meteoros Draconídeos
+10.9.Lua cheia
+10.17.Lua minguante
+10.21.Chuva de meteoros Oriônidas
+10.25.Lua nova
+11.00.00
+11.1.Lua crescente
+11.4.Chuva de meteoros Taurídas
+11.8.Lua cheia
+11.16.Lua minguante
+11.23.Lua nova
+11.17.Chuva de Meteoros Leônidas
+11.30.Lua crescente
+12.00.00
+12.8.Lua cheia
+12.13.Chuva de meteoros Geminidas
+12.16.Lua nova
+12.21.Chuva de meteoros Ursídeas
+12.23.Lua nova
+12.29.Lua crescente
